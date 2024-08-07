@@ -23,19 +23,19 @@ QR Phoenix is publicly accesible via [RapidAPI](https://rapidapi.com/jaygrey.jg/
 
 This API supports the following parameters:
 
-- [Data](./data)
-- [Format](./format)
-- [Size](./size)
-- [Style](./style)
-- [Color](./color)
-- [Background Color](./background-color)
-- [Gradient](./gradient)
-- [Gradient Type](./gradient-type)
-- [Eye Color](./eye-color)
-- [Eye Style](./eye-style)
-- [Margin](./margin)
-- [Image URL](./image-url)
-- [Image Size](./image-size)
+- [Data](/docs/parameter-overview/data)
+- [Format](/docs/parameter-overview/format)
+- [Size](/docs/parameter-overview/size)
+- [Style](/docs/parameter-overview/style)
+- [Color](/docs/parameter-overview/color)
+- [Background Color](/docs/parameter-overview/background-color)
+- [Gradient](/docs/parameter-overview/gradient)
+- [Gradient Type](/docs/parameter-overview/gradient-type)
+- [Eye Color](/docs/parameter-overview/eye-color)
+- [Eye Style](/docs/parameter-overview/eye-style)
+- [Margin](/docs/parameter-overview/margin)
+- [Image URL](/docs/parameter-overview/image-url)
+- [Image Size](/docs/parameter-overview/image-size)
 
 
 ## Example Request
