@@ -8,15 +8,17 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://qr-phoenix.craftsmanjohn.com',
+  url: 'https://qr-phoenix.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/qr-phoenix-docs',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'qr-phoenix', // Usually your GitHub org/user name.
-  projectName: 'qr-phoenix', // Usually your repo name.
+  projectName: 'qr-phoenix-docs', // Usually your repo name.
+  deploymentBranch: "pages",
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -38,14 +40,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/IggsGrey/qr-phoenix-docs/edit/main',
+            'https://github.com/qr-phoenix/qr-phoenix-docs/edit/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/IggsGrey/qr-phoenix-docs/edit/main',
+            'https://github.com/qr-phoenix/qr-phoenix-docs/edit/main',
         },
         theme: {
           customCss: './src/css/custom.css',
