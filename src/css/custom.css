@@ -1,0 +1,47 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #e1593e;
+  --ifm-color-primary-dark: #cc5037;
+  --ifm-color-primary-darker: #b74832;
+  --ifm-color-primary-darkest: #a03f2c;
+  --ifm-color-primary-light: #e66b56;
+  --ifm-color-primary-lighter: #e87368;
+  --ifm-color-primary-lightest: #ec8d80;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #ff745f;
+  --ifm-color-primary-dark: #e66b56;
+  --ifm-color-primary-darker: #cc604d;
+  --ifm-color-primary-darkest: #b35644;
+  --ifm-color-primary-light: #ff8976;
+  --ifm-color-primary-lighter: #ff9f8d;
+  --ifm-color-primary-lightest: #ffb6a4;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+
+
+img.example-qr {
+  width: 150px;
+  padding: 12px;
+  border: solid 1px rgba(18, 18, 18, 0.1);
+  border-radius: 8px;
+}
+[data-theme='dark'] img.example-qr {
+  border: solid 1px rgba(255, 255, 255, 0.1);
+}
+
+
+.required-indicator {
+  color: red;
+}
