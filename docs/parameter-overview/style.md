@@ -30,7 +30,7 @@ GET
 
 
 ### Response(s)
-<img class="example-qr" src="/img/examples/style-dot.png" alt="Style Example" />
-<img class="example-qr" src="/img/examples/style-square.png" alt="Style Example" />
+<img class="example-qr" src="/qr-phoenix-docs/img/examples/style-dot.png" alt="Style Example" />
+<img class="example-qr" src="/qr-phoenix-docs/img/examples/style-square.png" alt="Style Example" />
 
 <hr />

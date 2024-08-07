@@ -19,5 +19,5 @@ GET
 ```
 
 ### Response(s)
-<img class="example-qr" src="/img/examples/image-size.png" alt="Image Size Example" />
+<img class="example-qr" src="/qr-phoenix-docs/img/examples/image-size.png" alt="Image Size Example" />
 <hr />

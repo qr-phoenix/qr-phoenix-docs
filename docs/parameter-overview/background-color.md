@@ -20,7 +20,7 @@ GET
 
 
 ### Response(s)
-<img class="example-qr" src="/img/examples/bg-a.png" alt="Background Color Example" />
+<img class="example-qr" src="/qr-phoenix-docs/img/examples/bg-a.png" alt="Background Color Example" />
 <hr />
 
 

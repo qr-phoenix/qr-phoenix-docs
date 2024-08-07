@@ -23,6 +23,6 @@ GET
 
 
 ### Response(s)
-<img class="example-qr" src="/img/examples/eye-style.png" alt="Eye Style Example" />
+<img class="example-qr" src="/qr-phoenix-docs/img/examples/eye-style.png" alt="Eye Style Example" />
 <hr />
 

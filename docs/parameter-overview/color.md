@@ -26,8 +26,8 @@ GET
 
 ### Response(s)
 
-<img class="example-qr" src="/img/examples/color-a.png" alt="Color A Example" />
-<img class="example-qr" src="/img/examples/color-b.png" alt="Color B Example" />
+<img class="example-qr" src="/qr-phoenix-docs/img/examples/color-a.png" alt="Color A Example" />
+<img class="example-qr" src="/qr-phoenix-docs/img/examples/color-b.png" alt="Color B Example" />
 
 <hr />
 

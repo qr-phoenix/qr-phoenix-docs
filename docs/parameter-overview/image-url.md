@@ -20,7 +20,7 @@ GET
 
 
 ### Response(s)
-<img class="example-qr" src="/img/examples/image-url.png" alt="Image URL Example" />
+<img class="example-qr" src="/qr-phoenix-docs/img/examples/image-url.png" alt="Image URL Example" />
 <hr />
 
 

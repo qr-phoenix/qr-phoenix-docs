@@ -20,6 +20,6 @@ GET
 
 
 ### Response(s)
-<img class="example-qr" src="/img/examples/margin.png" alt="Margin Example" />
+<img class="example-qr" src="/qr-phoenix-docs/img/examples/margin.png" alt="Margin Example" />
 <hr />
 

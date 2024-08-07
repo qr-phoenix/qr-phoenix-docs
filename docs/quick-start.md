@@ -47,7 +47,7 @@ GET
 
 ## Example Response
 
-<img class="example-qr" src="/img/examples/basic.png" alt="Basic Example" />
+<img class="example-qr" src="/qr-phoenix-docs/img/examples/basic.png" alt="Basic Example" />
 
 
 <hr />

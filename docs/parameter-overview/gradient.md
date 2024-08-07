@@ -21,7 +21,7 @@ GET
 ```
 
 ### Response(s)
-<img class="example-qr" src="/img/examples/gradient.png" alt="Gradient Example" />
+<img class="example-qr" src="/qr-phoenix-docs/img/examples/gradient.png" alt="Gradient Example" />
 <hr />
 
 

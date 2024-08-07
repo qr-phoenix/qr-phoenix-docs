@@ -29,6 +29,6 @@ GET
 
 
 ### Response(s)
-<img class="example-qr" src="/img/examples/gradient-type-a.png" alt="Gradient Type Example" />
-<img class="example-qr" src="/img/examples/gradient-type-b.png" alt="Gradient Type Example" />
+<img class="example-qr" src="/qr-phoenix-docs/img/examples/gradient-type-a.png" alt="Gradient Type Example" />
+<img class="example-qr" src="/qr-phoenix-docs/img/examples/gradient-type-b.png" alt="Gradient Type Example" />
 <hr />
