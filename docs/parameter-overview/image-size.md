@@ -2,7 +2,7 @@
 id: image-size
 title: Image Size
 sidebar_label: Image Size
-sidebar_position: 13
+sidebar_position: 14
 ---
 
 **Parameter:** `image-size`

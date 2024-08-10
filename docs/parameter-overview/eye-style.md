@@ -13,6 +13,7 @@ The `eye-style` parameter determines the shape of the QR code's eyes. Possible v
 
 - `square`
 - `circle`
+- `rounded`
 
 ### Example
 
