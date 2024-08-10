@@ -18,7 +18,15 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+          <span
+            style={{ cursor: "pointer", textDecoration: "underline" }}
+            title="We take private QR code data seriously, as such, we do not store supplied QR code data. Your submitted data expires when your generation request is done."
+          >
+            Privacy-focussed
+          </span>,
+          modern QR Code generation
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
