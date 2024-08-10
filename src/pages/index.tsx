@@ -11,7 +11,7 @@ import { PhotoProvider, PhotoView } from 'react-photo-view';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -83,11 +83,11 @@ const qrImages = [
 ];
 
 export default function Home(): JSX.Element {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title="Docs"
-      description="Privacy-focussed, cutting-edge QR code generation">
+      description="Privacy-focussed, modern QR code generation">
       <HomepageHeader />
       <main>
         <Marquee images={qrImages} />

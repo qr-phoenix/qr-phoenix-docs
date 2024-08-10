@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'QR Phoenix',
-  tagline: 'Privacy-focussed, cutting-edge QR Code generation',
+  tagline: 'Privacy-focussed, modern QR Code generation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
