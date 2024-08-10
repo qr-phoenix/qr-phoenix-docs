@@ -20,7 +20,7 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">
           <span
-            style={{ cursor: "pointer", textDecoration: "underline" }}
+            style={{ cursor: "help", textDecoration: "underline" }}
             title="We take private QR code data seriously, as such, we do not store supplied QR code data. Your submitted data expires when your generation request is done."
           >
             Privacy-focussed
