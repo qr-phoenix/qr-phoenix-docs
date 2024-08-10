@@ -5,6 +5,7 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 import Slider from 'react-slick';
+import { PhotoProvider, PhotoView } from 'react-photo-view';
 
 
 import styles from './index.module.css';
@@ -45,15 +46,19 @@ const Marquee = ({ images }) => {
   };
 
   return (
-    <div className="qr-code-slider">
-      <Slider {...settings}>
-        {images.map((src, index) => (
-          <div key={index} className="slide-item">
-            <img src={src} alt={`QR code ${index + 1}`} className="example-qr" />
-          </div>
-        ))}
-      </Slider>
-    </div>
+    <PhotoProvider>
+      <div className="qr-code-slider">
+        <Slider {...settings}>
+          {images.map((src, index) => (
+            <div key={index} className="slide-item">
+              <PhotoView src={src}>
+                <img src={src} alt={`QR code ${index + 1}`} className="example-qr" />
+              </PhotoView>
+            </div>
+          ))}
+        </Slider>
+      </div>
+    </PhotoProvider>
   );
 };
 
