@@ -9,7 +9,7 @@ Let's discover **QR Phoenix in less than 2 minutes**.
 
 :::tip Note
 
-QR Phoenix is publicly accesible via [RapidAPI](https://rapidapi.com/jaygrey.jg/api/qr-phoenix). If need be, you may [reach out](https://whoami.craftsmanjohn.com/contact) to discuss personalised plans/solutions.
+QR Phoenix is publicly accesible via [RapidAPI](https://rapidapi.com/jaygrey.jg/api/qr-phoenix). If need be, you may [reach out](https://whoami.craftsmanjohn.com) to discuss personalised plans/solutions.
 
 :::
 
